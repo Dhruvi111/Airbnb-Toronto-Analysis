@@ -1,5 +1,3 @@
-# Airbnb-Toronto-Analysis
-
 # Toronto Airbnb Analysis
 
 ## Project Overview
