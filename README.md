@@ -68,7 +68,7 @@ Both cities maintain comparable guest satisfaction levels despite price differen
 
 ## Detailed Documentation
 
-**For comprehensive analysis, statistical outputs, and visualizations, please refer to the [Final Report](Final%20Report.docx).**
+**For comprehensive analysis, statistical outputs, and visualizations, please refer to the [Final Report](Final%20Report-compressed.docx).**
 
 The detailed report includes:
 - Complete descriptive statistics tables
